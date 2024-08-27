@@ -13,3 +13,7 @@ function fun2(){
 function fun3(){
     return "function 3 was added"
 }
+
+function fun4(){
+    return "function 4 was added from feature branch"
+}
